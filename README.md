@@ -2,6 +2,8 @@
 win10KMS搭建
 
 wget --no-check-certificate https://raw.githubusercontent.com/kczuse/win10/master/kms.sh && chmod +x kms.sh && ./kms.sh
+
+
 wget --no-check-certificate https://github.com/teddysun/across/raw/master/kms.sh && chmod +x kms.sh && ./kms.sh
 
 #教育版CDK
